@@ -1,0 +1,5 @@
+name: MegaHoue
+author: StrX/Ectarium
+version: 1.0.0
+api: 3.0.0
+main: megahoue\Main
